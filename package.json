@@ -1,0 +1,38 @@
+{
+  "name": "youtube-finder",
+  "version": "1.0.0",
+  "description": "A module for easy connection with Youtube API.",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard",
+    "coverage": "istanbul cover tape -- test/*-test.js",
+    "test": "npm run lint && tape test/*-test.js | tap-spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moisesdelacruz/youtube-finder.git"
+  },
+  "keywords": [
+    "youtube",
+    "youtube-finder",
+    "youtube-api",
+    "api-youtube",
+    "youtube-connect"
+  ],
+  "author": "moisesdelacruz <moises-jesus_15@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moisesdelacruz/youtube-finder/issues"
+  },
+  "homepage": "https://github.com/moisesdelacruz/youtube-finder#readme",
+  "dependencies": {
+    "superagent": "^1.8.3"
+  },
+  "devDependencies": {
+    "istanbul": "^0.4.3",
+    "nock": "^8.0.0",
+    "standard": "^6.0.8",
+    "tap-spec": "^4.1.1",
+    "tape": "^4.5.1"
+  }
+}
