@@ -1,6 +1,4 @@
-[![Build Status](https://travis-ci.org/moisesdelacruz/youtube-finder.svg?branch=master)](https://travis-ci.org/moisesdelacruz/youtube-finder)
-
-[![Coverage Status](https://coveralls.io/repos/github/moisesdelacruz/youtube-finder/badge.svg?branch=master)](https://coveralls.io/github/moisesdelacruz/youtube-finder?branch=master)
+[![Build Status](https://travis-ci.org/moisesdelacruz/youtube-finder.svg?branch=master)](https://travis-ci.org/moisesdelacruz/youtube-finder) [![Coverage Status](https://coveralls.io/repos/github/moisesdelacruz/youtube-finder/badge.svg?branch=master)](https://coveralls.io/github/moisesdelacruz/youtube-finder?branch=master)
 
 # youtube-finder
 
