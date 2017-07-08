@@ -1,6 +1,6 @@
 {
   "name": "youtube-finder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A module for easy connection with Youtube API.",
   "main": "index.js",
   "scripts": {
